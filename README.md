@@ -4,7 +4,7 @@
 
 ## Tela:
 
-![image](https://user-images.githubusercontent.com/66702430/192025105-1762e9ad-809b-4f91-9dae-2369f3a5b4d0.png)
+![image](https://user-images.githubusercontent.com/66702430/192025286-f9ff2061-dd85-45c6-bb66-bc8a1424f585.png)
 
 ## Passos:
 
