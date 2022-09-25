@@ -29,3 +29,9 @@
 05.
 - Finalizamos a sessão de descontos, estilizando o input e o botão para cadastrar o email;
 - Estilizamos o footer da aplicação com um arquivo .sass e vimos como aplicar a sintaxe recuada de forma prática.
+
+## Melhoria:
+
+Adicionar responsividade na seção serviços;
+Adicionar responsividade na seção cupom;
+Arrumar estilização na seção curiosidades.
